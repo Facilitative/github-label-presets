@@ -1,6 +1,6 @@
 {
 	"name": "@facilitative/github-label-presets",
-	"version": "1.0.0-beta.0",
+	"version": "1.0.0",
 	"description": "Curated label presets for @github-label-sync.",
 	"main": "src/default.json",
 	"packageManager": "pnpm@8.15.4",
