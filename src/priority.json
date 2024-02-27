@@ -1,0 +1,16 @@
+[
+	{ "name": "bug", "color": "d73a4a", "aliases": [], "description": "Something isn't working", "delete": true },
+	{ "name": "documentation", "color": "0075ca", "aliases": [], "description": "Improvements or additions to documentation", "delete": true },
+	{ "name": "duplicate", "color": "cfd3d7", "aliases": [], "description": "This issue or pull request already exists", "delete": true },
+	{ "name": "enhancement", "color": "a2eeef", "aliases": [], "description": "New feature or request", "delete": true },
+	{ "name": "good first issue", "color": "7057ff", "aliases": [], "description": "Good for newcomers", "delete": true },
+	{ "name": "help wanted", "color": "008672", "aliases": [], "description": "Extra attention is needed", "delete": true },
+	{ "name": "invalid", "color": "e4e669", "aliases": [], "description": "This doesn't seem right", "delete": true },
+	{ "name": "question", "color": "d876e3", "aliases": [], "description": "Further information is requested", "delete": true },
+	{ "name": "wontfix", "color": "ffffff", "aliases": [], "description": "This will not be worked on", "delete": true },
+
+	{ "name": "Low Priority", "color": "62E8EF", "aliases": [], "description": "This is of a lower priority.", "delete": false },
+	{ "name": "Medium Priority", "color": "ededed", "aliases": [], "description": "This is of a medium priority.", "delete": false },
+	{ "name": "High Priority", "color": "D82B24", "aliases": [], "description": "This is of a higher priority.", "delete": false },
+	{ "name": "Critical", "color": "e4e669", "aliases": [], "description": "This consists of critical adjustments.", "delete": false }
+]

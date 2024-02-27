@@ -1,0 +1,22 @@
+[
+	{ "name": "bug", "color": "d73a4a", "aliases": [], "description": "Something isn't working", "delete": true },
+	{ "name": "documentation", "color": "0075ca", "aliases": [], "description": "Improvements or additions to documentation", "delete": true },
+	{ "name": "duplicate", "color": "cfd3d7", "aliases": [], "description": "This issue or pull request already exists", "delete": true },
+	{ "name": "enhancement", "color": "a2eeef", "aliases": [], "description": "New feature or request", "delete": true },
+	{ "name": "good first issue", "color": "7057ff", "aliases": [], "description": "Good for newcomers", "delete": true },
+	{ "name": "help wanted", "color": "008672", "aliases": [], "description": "Extra attention is needed", "delete": true },
+	{ "name": "invalid", "color": "e4e669", "aliases": [], "description": "This doesn't seem right", "delete": true },
+	{ "name": "question", "color": "d876e3", "aliases": [], "description": "Further information is requested", "delete": true },
+	{ "name": "wontfix", "color": "ffffff", "aliases": [], "description": "This will not be worked on", "delete": true },
+
+	{ "name": "Abandoned", "color": "000000", "aliases": [], "description": "This request was abandoned.", "delete": false },
+	{ "name": "Accepted", "color": "009800", "aliases": [], "description": "This request was accepted.", "delete": false },
+	{ "name": "Available", "color": "bfe5bf", "aliases": [], "description": "This request is available.", "delete": false },
+	{ "name": "Blocked", "color": "e11d21", "aliases": [], "description": "This request was blocked.", "delete": false },
+	{ "name": "Completed", "color": "006b75", "aliases": [], "description": "This request was completed.", "delete": false },
+	{ "name": "In Progress", "color": "cccccc", "aliases": [], "description": "This request is in progress.", "delete": false },
+	{ "name": "On Hold", "color": "e11d21", "aliases": [], "description": "This request is on hold.", "delete": false },
+	{ "name": "Pending", "color": "fef2c0", "aliases": [], "description": "This request is pending.", "delete": false },
+	{ "name": "Review Needed", "color": "fbca04", "aliases": [], "description": "This request is in need of a review.", "delete": false },
+	{ "name": "Revision Needed", "color": "e11d21", "aliases": [], "description": "This request is in need of a revision.", "delete": false }
+]
