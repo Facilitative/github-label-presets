@@ -1,0 +1,54 @@
+{
+	"name": "@facilitative/github-label-presets",
+	"version": "1.0.0-beta.0",
+	"description": "Curated label presets for @github-label-sync.",
+	"main": "src/default.json",
+	"packageManager": "pnpm@8.15.4",
+	"files": [
+		"src"
+	],
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/facilitative/github-label-presets.git"
+	},
+	"keywords": [
+		"all",
+		"cla",
+		"default",
+		"git",
+		"github",
+		"labels",
+		"languages",
+		"packages",
+		"presets",
+		"priority",
+		"status",
+		"strict",
+		"type",
+		"utility",
+		"utils"
+	],
+	"author": {
+		"name": "robloxiandemo",
+		"url": "https://github.com/robloxiandemo"
+	},
+	"contributors": [
+		{
+			"name": "robloxiandemo",
+			"url": "https://github.com/robloxiandemo"
+		},
+		{
+			"name": "mixerotn",
+			"url": "https://github.com/mixerotn"
+		}
+	],
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/facilitative/github-label-presets/discussions/categories/q-a"
+	},
+	"homepage": "https://github.com/facilitative/github-label-presets/README.md",
+	"publishConfig": {
+		"access": "public"
+	}
+}
