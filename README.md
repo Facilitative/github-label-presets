@@ -11,19 +11,19 @@ This package is available for all sorts of projects via the following package ma
 ### 📦 — NPM:
 
 ```
-npm install @facilitative/github-label-presets@v1.0.0 -D
+npm install @facilitative/github-label-presets@v1.0.2 -D
 ```
 
 ### 🧶 — Yarn:
 
 ```
-yarn add @facilitative/github-label-presets@v1.0.0 -D
+yarn add @facilitative/github-label-presets@v1.0.2 -D
 ```
 
 ### 📀 — PNPM:
 
 ```
-pnpm add @facilitative/github-label-presets@v1.0.0 -D
+pnpm add @facilitative/github-label-presets@v1.0.2 -D
 ```
 
 &nbsp;
